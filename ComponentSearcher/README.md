@@ -56,4 +56,3 @@ Finds all components of type `T` located within the `radius` from the given posi
 
 ## Notes
 * Make sure your `MyComponentType` type inherits from `Component`.
-* Properly include the necessary `using` directives to use the script.
